@@ -1,5 +1,8 @@
 _repo: A-Doll-s-House---a-play_2542
-_version: 0.1.1
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ibsen, Henrik
@@ -29,6 +32,8 @@ description: "A Doll's House (Bokmål: Et dukkehjem; also translated as A Doll H
   \ UNESCO has inscribed Ibsen's autographed manuscripts of A Doll's House on the\
   \ Memory of the World Register in 2001, in recognition of their historical value.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2542#A-Doll-s-House---a-play
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2001-03-01'
 gutenberg_type: Text
